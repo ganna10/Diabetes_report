@@ -1,0 +1,108 @@
+Activity|Time|Meal|Text|InsulinType|UnitsInjected|MealCarbohydrates|GlycemiaTiming|GlycemiaReading|Exercise
+Glicemy|2014-09-04 06:43:00|Breakfast I|||||before|149|
+Meal|2014-09-04 06:43:00|Breakfast I||||0|||
+Insulin|2014-09-04 06:43:00|Breakfast I||NovoRapid|6||||
+Note|2014-09-04 06:43:00||breakfast: coffee and cereal||||||
+Glicemy|2014-09-04 09:03:00|Breakfast I|||||after|262|
+Insulin|2014-09-04 09:04:00|Breakfast II||NovoRapid|2||||
+Meal|2014-09-04 09:23:00|Breakfast II||||0|||
+Note|2014-09-04 09:23:00||Breakfast2: 1/2 Avocado and some Camembert||||||
+Glicemy|2014-09-04 11:57:00|Lunch|||||before|128|
+Meal|2014-09-04 11:59:00|Lunch||||0|||
+Insulin|2014-09-04 12:00:00|Lunch||NovoRapid|4||||
+Note|2014-09-04 13:02:00||Lunch: largish salad and coffee.||||||
+Glicemy|2014-09-04 14:02:00|Lunch|||||after|211|
+Insulin|2014-09-04 14:02:00|||NovoRapid|1||||
+Glicemy|2014-09-04 15:55:00|Afternoon tea|||||before|144|
+Insulin|2014-09-04 16:03:00|Afternoon tea||NovoRapid|3||||
+Meal|2014-09-04 16:03:00|Afternoon tea||||0|||
+Note|2014-09-04 16:05:00||Snack: left over hazelnut rice with Mandelmus and coffee||||||
+Glicemy|2014-09-04 20:04:00|Dinner|||||before|184|
+Meal|2014-09-04 20:05:00|Dinner||||0|||
+Insulin|2014-09-04 20:05:00|Dinner||NovoRapid|6||||
+Note|2014-09-04 20:24:00||dinner: pumpkin soup with meatballs and rest of yesterdays smoothie||||||
+Insulin|2014-09-04 21:04:00|||Lantus|5||||
+Glicemy|2014-09-04 22:55:00||||||after|271|
+Insulin|2014-09-04 22:55:00|||NovoRapid|1||||
+Glicemy|2014-09-05 08:25:00|Breakfast I|||||before|214|
+Meal|2014-09-05 08:25:00|Breakfast I||||0|||
+Note|2014-09-05 08:25:00||Breakfast: coffee and cereal||||||
+Insulin|2014-09-05 08:26:00|Breakfast I||NovoRapid|7||||
+Glicemy|2014-09-05 10:32:00|Breakfast I|||||after|233|
+Insulin|2014-09-05 10:33:00|||NovoRapid|1||||
+Glicemy|2014-09-05 12:05:00|Lunch|||||before|88|
+Note|2014-09-05 12:05:00||feeling shaky||||||
+Note|2014-09-05 12:10:00||Lunch: pumpkin soup with 4 meatballs and coffee||||||
+Glicemy|2014-09-05 12:37:00|Lunch|||||after|251|
+Insulin|2014-09-05 12:39:00|Lunch||NovoRapid|1||||
+Glicemy|2014-09-05 16:12:00|Afternoon tea|||||before|151|
+Meal|2014-09-05 16:12:00|Afternoon tea||||10|||
+Insulin|2014-09-05 16:13:00|Afternoon tea||NovoRapid|3||||
+Note|2014-09-05 16:14:00||Snack: Slice Eiweißbrot with salami, camembert; 500g cherry alpro yoghurt and coffee||||||
+Glicemy|2014-09-05 18:53:00||||||after|256|
+Glicemy|2014-09-05 20:07:00|Dinner|||||before|209|
+Insulin|2014-09-05 20:14:00|Dinner||NovoRapid|7||||
+Note|2014-09-05 20:15:00||dinner: vegan burger, no bun with chips and salad||||||
+Insulin|2014-09-05 21:10:00|||Lantus|5||||
+Glicemy|2014-09-06 00:40:00||||||after|242|
+Glicemy|2014-09-06 01:42:00||||||after|250|
+Insulin|2014-09-06 01:42:00|||NovoRapid|1||||
+Glicemy|2014-09-06 11:53:00|Breakfast I|||||before|187|
+Meal|2014-09-06 11:53:00|Breakfast I||||69.6|||
+Note|2014-09-06 11:54:00||breakfast: special k and coffee (6 BE)||||||
+Insulin|2014-09-06 12:09:00|Breakfast I||NovoRapid|7||||
+Meal|2014-09-06 15:33:00|Lunch||||29|||
+Glicemy|2014-09-06 15:36:00|Lunch|||||before|136|
+Insulin|2014-09-06 15:40:00|Lunch||NovoRapid|3||||
+Note|2014-09-06 16:00:00||Lunch: 2 pieces bread with salami and Camembert. Coffee and hazelnuts Schnitte (3 BE)||||||
+Glicemy|2014-09-06 20:11:00|Dinner|||||before|149|
+Meal|2014-09-06 20:11:00|Dinner||||150|||
+Insulin|2014-09-06 20:12:00|Dinner||NovoRapid|5||||
+Note|2014-09-06 21:00:00||Staggered Dinner at restaurant: Seafood, Sweetpotato-noodles, Kimchi, Bibimbap (Reis, Beef) and HefePfannkuchen||||||
+Insulin|2014-09-06 21:15:00|||Lantus|5||||
+Glicemy|2014-09-06 23:40:00||||||after|496|
+Insulin|2014-09-06 23:43:00|||NovoRapid|4||||
+Glicemy|2014-09-07 08:29:00||||||after|206|
+Meal|2014-09-07 09:32:00|Breakfast I||||72|||
+Note|2014-09-07 09:33:00||breakfast: coffee and muesli. (6 BE)||||||
+Glicemy|2014-09-07 09:35:00|Breakfast I|||||before|184|
+Insulin|2014-09-07 09:42:00|Breakfast I||NovoRapid|7||||
+Meal|2014-09-07 13:02:00|Lunch||||21|||
+Note|2014-09-07 13:03:00||Lunch: coffee with 3 slices eiweißbrot with salami and Camembert (3 BE)||||||
+Glicemy|2014-09-07 13:12:00|Lunch|||||before|164|
+Insulin|2014-09-07 13:13:00|Lunch||NovoRapid|3||||
+Meal|2014-09-07 16:06:00|Afternoon tea||||21|||
+Note|2014-09-07 16:08:00||Snack: 3 slices eiweißbrot with cheese and coffee (2 BE)||||||
+Glicemy|2014-09-07 16:15:00|Afternoon tea|||||before|148|
+Insulin|2014-09-07 16:15:00|||NovoRapid|2||||
+Glicemy|2014-09-07 19:47:00|Dinner|||||before|203|
+Meal|2014-09-07 19:47:00|Dinner||||108|||
+Insulin|2014-09-07 20:00:00|Dinner||NovoRapid|10||||
+Note|2014-09-07 20:00:00||dinner: 3 chicken quesadillas, chocolate pudding (9 BE) ||||||
+Insulin|2014-09-07 21:04:00|||Lantus|5||||
+Glicemy|2014-09-07 23:59:00||||||after|402|
+Insulin|2014-09-07 23:59:00|||NovoRapid|3||||
+Glicemy|2014-09-08 08:06:00|Breakfast I|||||before|231|
+Meal|2014-09-08 08:07:00|Breakfast I||||76|||
+Insulin|2014-09-08 08:08:00|Breakfast I||NovoRapid|7||||
+Note|2014-09-08 08:08:00||Frühstück: Müsli und Kaffee (6 BE)||||||
+Meal|2014-09-08 11:30:00|Lunch||||57|||
+Note|2014-09-08 11:31:00||Mittags: 1,5 Hähnchen quesadillas und Kaffee (5 BE)||||||
+Glicemy|2014-09-08 11:34:00|Lunch|||||before|215|
+Insulin|2014-09-08 11:36:00|Lunch||NovoRapid|6||||
+Meal|2014-09-08 15:25:00|Afternoon tea||||50.5|||
+Note|2014-09-08 15:26:00||Zwischenmahlzeit: Packung Yogurt (4 BE)||||||
+Glicemy|2014-09-08 15:27:00|Afternoon tea|||||before|178|
+Insulin|2014-09-08 15:28:00|Afternoon tea||NovoRapid|4||||
+Physical activity|2014-09-08 16:00:00||Gehen.  66 kcal||||||21
+Glicemy|2014-09-08 18:25:00|Snack|||||before|99|
+Meal|2014-09-08 18:26:00|Snack||||4.1|||
+Note|2014-09-08 18:26:00||Snack: Scheibe Eiweißbrot mit guacamole und camembert (\textless 1BE)||||||
+Glicemy|2014-09-08 20:14:00|Dinner|||||before|158|
+Meal|2014-09-08 20:14:00|Dinner||||72|||
+Note|2014-09-08 20:14:00||Abendessen: Schnitzel, Spiegelei, Bratkartoffeln (6 BE)||||||
+Insulin|2014-09-08 20:16:00|Dinner||NovoRapid|6||||
+Meal|2014-09-08 20:58:00|Supper||||16|||
+Note|2014-09-08 20:59:00||Dessert: Schokolade pudding (1BE)||||||
+Insulin|2014-09-08 21:00:00|Supper||NovoRapid|1||||
+Insulin|2014-09-08 21:37:00|||Lantus|5||||
