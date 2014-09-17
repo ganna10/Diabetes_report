@@ -28,8 +28,8 @@ output_to_file($tex_file, $text);
 
 system("pdflatex report.tex");
 system("pdflatex report.tex");
+system("cp report.pdf Reports/${base}_report.pdf");
 system("evince report.pdf");
-system("mv report.pdf Reports/${base}_report.pdf");
 
 sub read_file {
     my ($file) = @_;
