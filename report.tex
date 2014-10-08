@@ -56,12 +56,12 @@ contents={\begin{tikzpicture}[remember picture,overlay]
         \multirow{2}{*}{\textbf{Activity}} & \multirow{2}{*}{\textbf{Time}} & \multirow{2}{*}{\textbf{Meal}} & \textbf{Carbohydrates} & \textbf{Glycemia} & \textbf{Glycemia} & \textbf{Insulin} & \textbf{Units} & \textbf{Exercise} & \multirow{2}{*}{\textbf{Text}} \\
         &  &  & \textbf{(g)} & \textbf{(before/after)} & \textbf{(mg/dl)} & \textbf{Type} & \textbf{Injected} & \textbf{(mins)} &  \\\hline
          \endhead
-        \csvreader[head to column names, late after line=\\\hline,separator=pipe]{csv_files/out_20140924.csv}{}
+        \csvreader[head to column names, late after line=\\\hline,separator=pipe]{csv_files/out_20141008.csv}{}
         {\Activity & \Time & \Meal & \MealCarbohydrates & \GlycemiaTiming & \GlycemiaReading & \InsulinType & \UnitsInjected & \Exercise & \small{\Text}} 
     \end{longtable}
 
 \newpage
-\includegraphics[height=\textwidth]{R/20140924.pdf}
+\includegraphics[height=\textwidth]{R/20141008.pdf}
 \end{landscape}
 
 \end{document}
