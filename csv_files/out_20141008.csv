@@ -1,0 +1,165 @@
+Activity|Time|Meal|Text|InsulinType|UnitsInjected|MealCarbohydrates|GlycemiaTiming|GlycemiaReading|Exercise
+Glicemy|2014-10-01 08:01:00|Breakfast I|||||before|199|
+Meal|2014-10-01 08:03:00|Breakfast I||||62|||
+Note|2014-10-01 08:03:00||Frühstück : Cereal mit Milch und Kaffee ( 6 BE ) ||||||
+Insulin|2014-10-01 08:07:00|Breakfast I||NovoRapid|5||||
+Physical activity|2014-10-01 09:30:00||Fahrradfahren zur Arbeit ( 46 kcal ) ||||||8
+Glicemy|2014-10-01 09:46:00|Breakfast I|||||after|344|
+Glicemy|2014-10-01 11:53:00|Lunch|||||before|193|
+Meal|2014-10-01 12:08:00|Lunch||||121|||
+Note|2014-10-01 12:09:00||Mittags : Eierspätzle mit Hackfleisch Bällchen  (11 BE ) ||||||
+Insulin|2014-10-01 12:10:00|Lunch||NovoRapid|12||||
+Glicemy|2014-10-01 14:04:00|Lunch|||||after|73|
+Note|2014-10-01 14:05:00||2 Dextroenergie, Überschätzung von Insulinmenge am Mittags||||||
+Glicemy|2014-10-01 14:24:00||||||after|127|
+Glicemy|2014-10-01 16:04:00|Afternoon tea|||||before|92|
+Meal|2014-10-01 16:05:00|Afternoon tea||||46|||
+Note|2014-10-01 16:06:00||Snack: 2 Schieben Vollkornbrot mit Nußmuss und Salami. Kaffee (4 BE)||||||
+Insulin|2014-10-01 16:07:00|Afternoon tea||NovoRapid|4||||
+Glicemy|2014-10-01 19:36:00|Dinner|||||before|142|
+Note|2014-10-01 19:37:00||Abends: Salat mit Vollkorn Brot (5 BE)||||||
+Meal|2014-10-01 19:37:00|Dinner||||59|||
+Insulin|2014-10-01 20:06:00|Dinner||NovoRapid|5||||
+Physical activity|2014-10-01 20:31:00||Fahrradfahren zur Bahnhof ( 46 kcal ) ||||||10
+Insulin|2014-10-01 21:35:00|||Lantus|5||||
+Note|2014-10-01 22:33:00||2 Stücke Schokolade  (1 BE ) ||||||
+Insulin|2014-10-01 22:33:00|Supper||NovoRapid|1||||
+Weight|2014-10-01 23:45:00||||||||
+Glicemy|2014-10-01 23:45:00||||||after|195|
+Insulin|2014-10-01 23:46:00|||NovoRapid|1||||
+Glicemy|2014-10-02 03:03:00||||||after|166|
+Glicemy|2014-10-02 07:59:00|Breakfast I|||||before|195|
+Meal|2014-10-02 07:59:00|Breakfast I||||56|||
+Note|2014-10-02 08:00:00||Frühstück : Cereal mit Milch und Kaffee ( 5 BE ) ||||||
+Insulin|2014-10-02 08:00:00|Breakfast I||NovoRapid|5||||
+Physical activity|2014-10-02 09:15:00||Fahrradfahren zur Arbeit ( 56 kcal ) ||||||12
+Glicemy|2014-10-02 09:42:00|Breakfast I|||||after|323|
+Glicemy|2014-10-02 11:41:00||||||after|156|
+Physical activity|2014-10-02 11:45:00||Spazieren||||||15
+Meal|2014-10-02 12:09:00|Lunch||||94|||
+Note|2014-10-02 12:10:00||Mittags : Burger mit Pommes. Kaffee  (8 BE )||||||
+Glicemy|2014-10-02 12:12:00|Lunch|||||before|194|
+Insulin|2014-10-02 12:16:00|Lunch||NovoRapid|9||||
+Glicemy|2014-10-02 14:49:00|Lunch|||||after|164|
+Glicemy|2014-10-02 16:02:00|Afternoon tea|||||before|148|
+Meal|2014-10-02 16:02:00|Afternoon tea||||35|||
+Note|2014-10-02 16:02:00||Snack: Scheibe Vollkornbrot mit Nußmuss, Gurke und Rotebete. Kaffee (3 BE)||||||
+Insulin|2014-10-02 16:03:00|Afternoon tea||NovoRapid|3||||
+Glicemy|2014-10-02 19:19:00|Dinner|||||before|242|
+Note|2014-10-02 19:19:00||Abends : Schnitzel mit Bratkartoffeln ( 7 BE ) ||||||
+Meal|2014-10-02 19:22:00|Dinner||||73|||
+Insulin|2014-10-02 19:22:00|Dinner||NovoRapid|11||||
+Insulin|2014-10-02 21:07:00|||Lantus|5||||
+Glicemy|2014-10-02 21:38:00|Dinner|||||after|110|
+Glicemy|2014-10-02 23:02:00||||||after|179|
+Glicemy|2014-10-03 00:52:00|Supper|||||before|113|
+Meal|2014-10-03 00:52:00|Supper||||48|||
+Insulin|2014-10-03 00:55:00|Supper||NovoRapid|4||||
+Glicemy|2014-10-03 10:16:00|Breakfast I|||||before|242|
+Meal|2014-10-03 10:19:00|Breakfast I||||73|||
+Note|2014-10-03 10:21:00||Frühstück : Cereal mit Milch und Kaffee ( 7 BE ) ||||||
+Insulin|2014-10-03 10:26:00|Breakfast I||NovoRapid|10||||
+Physical activity|2014-10-03 12:52:00||Fahrradfahren  (47 kcal )||||||12
+Meal|2014-10-03 13:19:00|Lunch||||93|||
+Note|2014-10-03 13:19:00||Mittags : Brot mit Salami und Avocado. Stück Bananenkuchen   (9 BE ) ||||||
+Glicemy|2014-10-03 13:21:00|Lunch|||||before|101|
+Insulin|2014-10-03 13:23:00|Lunch||NovoRapid|8||||
+Physical activity|2014-10-03 14:55:00||Fahrradfahren  ( 46 kcal ) ||||||12
+Glicemy|2014-10-03 16:28:00|Afternoon tea|||||before|244|
+Note|2014-10-03 16:34:00||Snack: Schokolade (1 BE)||||||
+Insulin|2014-10-03 16:36:00|Afternoon tea||NovoRapid|2||||
+Glicemy|2014-10-03 19:32:00|Dinner|||||before|297|
+Note|2014-10-03 20:46:00||Abends : Japanisches Restaurant  (8 BE ) ||||||
+Insulin|2014-10-03 20:47:00|Dinner||NovoRapid|12||||
+Insulin|2014-10-03 20:54:00|||Lantus|5||||
+Glicemy|2014-10-03 23:12:00||||||after|138|
+Glicemy|2014-10-04 08:42:00|Breakfast I|||||before|217|
+Meal|2014-10-04 08:44:00|Breakfast I||||55|||
+Note|2014-10-04 08:45:00||Frühstück : Haferflocken mit Milch und Kaffee ( 5 BE ) ||||||
+Insulin|2014-10-04 08:49:00|Breakfast I||NovoRapid|7||||
+Glicemy|2014-10-04 12:32:00||||||after|142|
+Glicemy|2014-10-04 13:15:00|Lunch|||||before|110|
+Insulin|2014-10-04 13:30:00|Lunch||NovoRapid|3||||
+Note|2014-10-04 13:33:00||Mittags : Boulette mit Bratkartoffeln ( 3 BE ) ||||||
+Glicemy|2014-10-04 17:00:00||||||after|154|
+Glicemy|2014-10-04 18:10:00|Dinner|||||before|190|
+Note|2014-10-04 18:12:00||Abends : Grieches Restaurant ( 6 BE ) ||||||
+Insulin|2014-10-04 19:08:00|Dinner||NovoRapid|8||||
+Glicemy|2014-10-04 21:06:00||||||after|260|
+Insulin|2014-10-04 21:07:00|||NovoRapid|2||||
+Insulin|2014-10-04 22:41:00|||Lantus|5||||
+Note|2014-10-04 22:43:00||Snack : Schokolade  (1 BE ) ||||||
+Insulin|2014-10-04 22:43:00|Supper||NovoRapid|1||||
+Glicemy|2014-10-04 23:43:00||||||after|333|
+Insulin|2014-10-04 23:44:00|||NovoRapid|5||||
+Glicemy|2014-10-05 09:12:00|Breakfast I|||||before|231|
+Note|2014-10-05 09:13:00||Frühstück : Haferflocken mit Milch und Kaffee ( 6 BE ) ||||||
+Meal|2014-10-05 09:18:00|Breakfast I||||71|||
+Insulin|2014-10-05 09:20:00|Breakfast I||NovoRapid|8||||
+Meal|2014-10-05 12:29:00|Lunch||||86|||
+Note|2014-10-05 12:30:00||Mittags: 2 Scheiben Voolkorn Brot mit Käse. Yogurt und Kaffee (8 BE)||||||
+Glicemy|2014-10-05 12:31:00|Lunch|||||before|183|
+Insulin|2014-10-05 12:35:00|Lunch||NovoRapid|9||||
+Glicemy|2014-10-05 14:31:00|Afternoon tea|||||before|218|
+Meal|2014-10-05 14:37:00|Afternoon tea||||41|||
+Note|2014-10-05 14:37:00||Snack: 2 Schieben Vollkornbrot mit Käse und Salami (4 BE) ||||||
+Insulin|2014-10-05 14:41:00|Afternoon tea||NovoRapid|6||||
+Glicemy|2014-10-05 17:50:00|Dinner|||||before|101|
+Note|2014-10-05 17:50:00||Abends : Arabisches Restaurant  (8 BE )||||||
+Insulin|2014-10-05 18:16:00|Dinner||NovoRapid|9||||
+Glicemy|2014-10-05 20:08:00|Supper|||||before|81|
+Meal|2014-10-05 20:35:00|Supper||||14|||
+Note|2014-10-05 20:36:00||Schokolade (1 BE)||||||
+Insulin|2014-10-05 21:01:00|||Lantus|5||||
+Glicemy|2014-10-05 23:13:00||||||after|195|
+Insulin|2014-10-05 23:13:00|||NovoRapid|1||||
+Glicemy|2014-10-06 02:03:00||||||after|156|
+Glicemy|2014-10-06 08:12:00|Breakfast I|||||before|191|
+Meal|2014-10-06 08:13:00|Breakfast I||||70|||
+Note|2014-10-06 08:13:00||Frühstück : Haferflocken mit Milch und Kaffee ( 6 BE ) ||||||
+Insulin|2014-10-06 08:18:00|Breakfast I||NovoRapid|7||||
+Glicemy|2014-10-06 13:09:00|Lunch|||||before|207|
+Note|2014-10-06 13:10:00||Mittags : kokosmilch suppe, brot Kartoffeln salat ( 5 BE ) ||||||
+Insulin|2014-10-06 13:11:00|Lunch||NovoRapid|7||||
+Meal|2014-10-06 15:47:00|Afternoon tea||||55|||
+Note|2014-10-06 15:48:00||snack : 3 schieben Brot mit Salami und Käse ( 5 BE ) ||||||
+Glicemy|2014-10-06 15:50:00|Afternoon tea|||||before|101|
+Insulin|2014-10-06 15:55:00|Afternoon tea||NovoRapid|5||||
+Glicemy|2014-10-06 17:26:00||||||after|158|
+Glicemy|2014-10-06 19:48:00|Dinner|||||before|145|
+Meal|2014-10-06 19:49:00|Dinner||||154|||
+Note|2014-10-06 19:50:00||Abends : Gnocchi mit pesto und pinienkerne  (14 BE ) ||||||
+Insulin|2014-10-06 19:51:00|Dinner||NovoRapid|15||||
+Insulin|2014-10-06 21:00:00|||Lantus|5||||
+Insulin|2014-10-06 21:49:00|Snack||NovoRapid|1||||
+Note|2014-10-06 21:49:00||Snack: Schokolade (1 BE)||||||
+Glicemy|2014-10-06 22:44:00|Snack|||||before|144|
+Note|2014-10-06 22:46:00||Eclair (1 BE)||||||
+Insulin|2014-10-06 22:46:00|Snack||NovoRapid|1||||
+Glicemy|2014-10-07 00:03:00||||||after|139|
+Glicemy|2014-10-07 02:02:00||||||after|139|
+Glicemy|2014-10-07 07:42:00|Breakfast I|||||before|204|
+Meal|2014-10-07 07:42:00|Breakfast I||||82|||
+Note|2014-10-07 07:42:00||Frühstück : Haferflocken mit Milch und Kaffee ( 7 BE ) ||||||
+Insulin|2014-10-07 07:47:00|Breakfast I||NovoRapid|9||||
+Glicemy|2014-10-07 11:23:00||||||after|255|
+Glicemy|2014-10-07 12:53:00|Lunch|||||before|200|
+Note|2014-10-07 12:57:00||Mittags : Thai curry mit Reis, Kürbissuppe mit Brot ( 5 BE ) ||||||
+Insulin|2014-10-07 12:58:00|Lunch||NovoRapid|9||||
+Glicemy|2014-10-07 16:26:00|Afternoon tea|||||before|111|
+Insulin|2014-10-07 16:26:00|Afternoon tea||NovoRapid|3||||
+Note|2014-10-07 16:30:00||Snack : 2 Schieben Vollkornbrot mit Käse und Salami  ( 3 BE ) ||||||
+Glicemy|2014-10-07 19:30:00|Dinner|||||before|140|
+Insulin|2014-10-07 19:39:00|Dinner||NovoRapid|7||||
+Note|2014-10-07 19:40:00||Vietnamese Restaurant (7BE)||||||
+Glicemy|2014-10-07 22:05:00|Supper|||||before|279|
+Note|2014-10-07 22:07:00||2 Eclairs (2BE)||||||
+Insulin|2014-10-07 22:07:00|Supper||NovoRapid|2||||
+Insulin|2014-10-07 23:14:00|||Lantus|5||||
+Glicemy|2014-10-08 00:13:00||||||after|291|
+Insulin|2014-10-08 00:14:00|||NovoRapid|4||||
+Glicemy|2014-10-08 04:01:00||||||after|132|
+Glicemy|2014-10-08 07:55:00|Breakfast I|||||before|160|
+Meal|2014-10-08 07:56:00|Breakfast I||||85|||
+Note|2014-10-08 07:56:00||Frühstück: Cereal mit Milch und Kaffee. (8 BE)||||||
+Insulin|2014-10-08 07:58:00|Breakfast I||NovoRapid|9||||
