@@ -52,16 +52,16 @@ contents={\begin{tikzpicture}[remember picture,overlay]
 
 \newpage
 \begin{landscape}
-    \begin{longtable}{|>{\centering\arraybackslash}c|C{2cm}|c|c|c|c|c|c|c|C{3.7cm}|} \hline
-        \multirow{2}{*}{\textbf{Activity}} & \multirow{2}{*}{\textbf{Time}} & \multirow{2}{*}{\textbf{Meal}} & \textbf{Carbohydrates} & \textbf{Glycemia} & \textbf{Glycemia} & \textbf{Insulin} & \textbf{Units} & \textbf{Exercise} & \multirow{2}{*}{\textbf{Text}} \\
-        &  &  & \textbf{(g)} & \textbf{(before/after)} & \textbf{(mg/dl)} & \textbf{Type} & \textbf{Injected} & \textbf{(mins)} &  \\\hline
+    \begin{longtable}{|>{\centering\arraybackslash}c|C{2cm}|c|c|c|c|c|c|C{5.7cm}|} \hline
+        \multirow{2}{*}{\textbf{Activity}} & \multirow{2}{*}{\textbf{Time}} & \multirow{2}{*}{\textbf{Meal}} & \textbf{Glycemia} & \textbf{Glycemia} & \textbf{Insulin} & \textbf{Units} & \textbf{Exercise} & \multirow{2}{*}{\textbf{Text}} \\
+        &  &  & \textbf{(before/after)} & \textbf{(mg/dl)} & \textbf{Type} & \textbf{Injected} & \textbf{(mins)} &  \\\hline
          \endhead
-        \csvreader[head to column names, late after line=\\\hline,separator=pipe]{csv_files/out_20141029.csv}{}
-        {\Activity & \Time & \Meal & \MealCarbohydrates & \GlycemiaTiming & \GlycemiaReading & \InsulinType & \UnitsInjected & \Exercise & \small{\Text}} 
+        \csvreader[head to column names, late after line=\\\hline,separator=pipe]{csv_files/out_20141105.csv}{}
+        {\Activity & \Time & \Meal & \GlycemiaTiming & \GlycemiaReading & \InsulinType & \UnitsInjected & \Exercise & \small{\Text}} 
     \end{longtable}
 
 \newpage
-\includegraphics[height=\textwidth]{R/20141029.pdf}
+\includegraphics[height=\textwidth]{R/20141105.pdf}
 \end{landscape}
 
 \end{document}

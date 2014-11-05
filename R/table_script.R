@@ -12,7 +12,7 @@ data$GIVEN_DATE = NULL
 data$MEAL_SIZE = NULL
 data$PHYS_SCALE = NULL
 data$WEIGHT_READING = NULL
-colnames(data) =  c("Activity", "Time", "Meal", "Text", "InsulinType", "UnitsInjected", "MealCarbohydrates", "GlycemiaTiming", "GlycemiaReading", "Exercise")
+colnames(data) =  c("Activity", "Time", "Meal", "Text", "InsulinType", "UnitsInjected", "GlycemiaTiming", "GlycemiaReading", "Exercise")
 data$Time = as.POSIXlt(data$Time, format="%Y-%m-%d %H:%M", tz="Europe/Berlin")
 data = data[order(data$Time),]
 
