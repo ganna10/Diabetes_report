@@ -1,0 +1,157 @@
+Activity|Time|Meal|Text|InsulinType|UnitsInjected|GlycemiaTiming|GlycemiaReading|Exercise
+Glicemy|2015-02-11 02:06:00|Dinner||||after|205|
+Insulin|2015-02-11 02:07:00|||NovoRapid|2|||
+Glicemy|2015-02-11 04:12:00|Snack||||before|210|
+Note|2015-02-11 04:14:00||Schokolade ( 3 BE )|||||
+Insulin|2015-02-11 04:14:00|Snack||NovoRapid|5.5|||
+Glicemy|2015-02-11 08:45:00|Breakfast I||||before|198|
+Note|2015-02-11 08:45:00||Frühstück : Flugzeug Mahlzeit (4 BE )|||||
+Insulin|2015-02-11 08:46:00|Breakfast I||NovoRapid|6.5|||
+Glicemy|2015-02-11 10:40:00|||||after|301|
+Insulin|2015-02-11 10:40:00|||NovoRapid|5|||
+Glicemy|2015-02-11 12:55:00|Lunch||||before|120|
+Note|2015-02-11 12:55:00||Mittags : Bratkartoffeln, Boulette und Schokolade Dessert ( 8.5 BE ) |||||
+Insulin|2015-02-11 12:56:00|Lunch||NovoRapid|8.5|||
+Glicemy|2015-02-11 16:54:00|||||after|344|
+Insulin|2015-02-11 17:02:00|||NovoRapid|6|||
+Glicemy|2015-02-11 19:19:00|Dinner||||before|277|
+Note|2015-02-11 19:20:00||Abends : Falafel im Brot ( 7 BE )|||||
+Insulin|2015-02-11 19:20:00|Dinner||NovoRapid|11.5|||
+Insulin|2015-02-11 20:29:00|||Lantus|9|||
+Glicemy|2015-02-12 00:02:00|||||after|196|
+Insulin|2015-02-12 00:03:00|||NovoRapid|1|||
+Glicemy|2015-02-12 10:03:00|Breakfast I||||before|187|
+Note|2015-02-12 10:05:00||Frühstück : Haferflocken mit Milch ( 3 BE )|||||
+Insulin|2015-02-12 10:05:00|Breakfast I||NovoRapid|5|||
+Glicemy|2015-02-12 11:39:00|Lunch||||before|361|
+Note|2015-02-12 11:40:00||Mittags : Eiweißbrot mit Käse und Ei (1.5 BE )|||||
+Insulin|2015-02-12 11:40:00|Lunch||NovoRapid|8.5|||
+Glicemy|2015-02-12 12:35:00|||||after|217|
+Glicemy|2015-02-12 14:07:00|||||after|113|
+Note|2015-02-12 14:07:00||1 Dextroenergie |||||
+Glicemy|2015-02-12 16:29:00|Afternoon tea||||before|183|
+Note|2015-02-12 16:34:00||Snack : Yoghurt ( 2 BE )|||||
+Insulin|2015-02-12 16:35:00|Afternoon tea||NovoRapid|4|||
+Note|2015-02-12 18:57:00||Schokolade ( 3 BE )|||||
+Insulin|2015-02-12 18:58:00|Snack||NovoRapid|3|||
+Glicemy|2015-02-12 20:41:00|Dinner||||before|161|
+Note|2015-02-12 20:41:00||Abends : Ofenkäse mit Brot ( 5 BE ) |||||
+Insulin|2015-02-12 20:45:00|Dinner||NovoRapid|6|||
+Insulin|2015-02-12 21:07:00|||Lantus|9|||
+Note|2015-02-12 21:28:00||Schokolade Dessert ( 2.5 BE )|||||
+Insulin|2015-02-12 21:28:00|Supper||NovoRapid|2.5|||
+Glicemy|2015-02-13 00:01:00|||||after|213|
+Insulin|2015-02-13 00:01:00|||NovoRapid|2|||
+Glicemy|2015-02-13 09:13:00|Breakfast I||||before|216|
+Note|2015-02-13 09:13:00||Frühstück : Brot ( 2 BE )|||||
+Insulin|2015-02-13 09:15:00|Breakfast I||NovoRapid|4.5|||
+Glicemy|2015-02-13 12:03:00|Lunch||||before|216|
+Note|2015-02-13 12:03:00||Mittags : Brot mit Käse und Ei ( 4 BE )|||||
+Insulin|2015-02-13 12:07:00|Lunch||NovoRapid|7|||
+Glicemy|2015-02-13 14:26:00|||||after|208|
+Insulin|2015-02-13 14:26:00|||NovoRapid|2|||
+Glicemy|2015-02-13 15:26:00|||||after|201|
+Glicemy|2015-02-13 16:06:00|Afternoon tea||||before|162|
+Note|2015-02-13 16:06:00||Schokolade Dessert ( 2.5 BE )|||||
+Insulin|2015-02-13 16:06:00|||NovoRapid|2.5|||
+Glicemy|2015-02-13 17:50:00|||||after|312|
+Insulin|2015-02-13 17:50:00|||NovoRapid|5|||
+Note|2015-02-13 19:09:00||Abends : Vegetarisch Curry mit Reis ( 8 BE )|||||
+Insulin|2015-02-13 19:09:00|Dinner||NovoRapid|8|||
+Insulin|2015-02-13 21:13:00|||Lantus|9|||
+Glicemy|2015-02-13 21:13:00|Dinner||||after|98|
+Glicemy|2015-02-13 21:51:00|||||after|111|
+Glicemy|2015-02-13 23:07:00|||||after|90|
+Note|2015-02-13 23:10:00||2 Schieben Eiweißbrot mit Brotaufstrich ( 1.5 BE )|||||
+Glicemy|2015-02-14 09:49:00|Breakfast I||||before|166|
+Note|2015-02-14 09:49:00||Frühstück : 2 Schieben Eiweißbrot mit Käse ( 1 BE )|||||
+Insulin|2015-02-14 09:51:00|Breakfast I||NovoRapid|2|||
+Glicemy|2015-02-14 12:51:00|Lunch||||before|188|
+Note|2015-02-14 12:51:00||Mittags : Reste (5 BE )|||||
+Insulin|2015-02-14 12:53:00|Lunch||NovoRapid|7|||
+Glicemy|2015-02-14 14:08:00|||||after|195|
+Glicemy|2015-02-14 15:44:00|||||after|120|
+Note|2015-02-14 15:45:00||1 Traubenzucker - Autofahren|||||
+Glicemy|2015-02-14 16:38:00|Afternoon tea||||before|168|
+Note|2015-02-14 16:40:00||Snack : Yoghurt ( 4 BE )|||||
+Insulin|2015-02-14 16:40:00|Afternoon tea||NovoRapid|5|||
+Glicemy|2015-02-14 19:43:00|Dinner||||before|175|
+Note|2015-02-14 19:43:00||Abends : Kartoffelsuppe (6 BE ) |||||
+Insulin|2015-02-14 19:45:00|Dinner||NovoRapid|7|||
+Insulin|2015-02-14 21:03:00|||Lantus|9|||
+Glicemy|2015-02-14 21:52:00|Dinner||||after|94|
+Glicemy|2015-02-14 22:52:00|Supper||||before|158|
+Note|2015-02-14 22:53:00||Kekse ( 2.5 BE )|||||
+Insulin|2015-02-14 22:53:00|Supper||NovoRapid|2.5|||
+Glicemy|2015-02-15 00:48:00|||||after|201|
+Glicemy|2015-02-15 11:21:00|Breakfast I||||before|174|
+Note|2015-02-15 11:22:00||Frühstück : Eiweißbrot mit Käse, Ei und Bacon (2.5 BE )|||||
+Insulin|2015-02-15 11:23:00|Breakfast I||NovoRapid|3.5|||
+Glicemy|2015-02-15 13:15:00|Breakfast I||||after|234|
+Glicemy|2015-02-15 14:27:00|Snack||||before|210|
+Note|2015-02-15 14:33:00||Snack : 3 Kekse (2 BE )|||||
+Insulin|2015-02-15 14:34:00|Snack||NovoRapid|5|||
+Glicemy|2015-02-15 16:09:00|Snack||||after|144|
+Glicemy|2015-02-15 19:06:00|Dinner||||before|155|
+Note|2015-02-15 19:07:00||Abends : Kartoffelsuppe ( 6 BE ) |||||
+Insulin|2015-02-15 19:07:00|Dinner||NovoRapid|6.5|||
+Insulin|2015-02-15 21:02:00|||Lantus|9|||
+Glicemy|2015-02-15 21:03:00|Supper||||before|227|
+Note|2015-02-15 21:03:00||Kekse ( 3 BE )|||||
+Insulin|2015-02-15 21:04:00|Supper||NovoRapid|5|||
+Glicemy|2015-02-15 23:19:00|Supper||||after|169|
+Glicemy|2015-02-16 08:21:00|Breakfast I||||before|165|
+Note|2015-02-16 08:21:00||Frühstück : 2 Schieben Eiweißbrot mit Käse ( 1 BE )|||||
+Insulin|2015-02-16 08:22:00|Breakfast I||NovoRapid|2|||
+Physical activity|2015-02-16 09:42:00||Gehen|||||27
+Glicemy|2015-02-16 11:55:00|Lunch||||before|140|
+Note|2015-02-16 12:05:00||Mittags : Salat und Brot ( 4 BE )|||||
+Insulin|2015-02-16 12:06:00|Lunch||NovoRapid|4.5|||
+Glicemy|2015-02-16 14:23:00|Snack||||before|191|
+Note|2015-02-16 14:23:00||Snack : Granola bar, Staudensellerie mit Hummus  (3 BE )|||||
+Insulin|2015-02-16 14:25:00|Snack||NovoRapid|4|||
+Glicemy|2015-02-16 16:25:00|Snack||||after|113|
+Note|2015-02-16 16:25:00||1 Traubenzucker|||||
+Glicemy|2015-02-16 19:19:00|Dinner||||before|94|
+Note|2015-02-16 19:20:00||Abends : Süßkartoffel und Pilze Cannelloni (8 BE )|||||
+Insulin|2015-02-16 19:32:00|Dinner||NovoRapid|8|||
+Glicemy|2015-02-16 21:58:00|Supper||||before|166|
+Note|2015-02-16 21:58:00||Kekse ( 2.5 BE )|||||
+Insulin|2015-02-16 21:58:00|Supper||NovoRapid|3|||
+Glicemy|2015-02-16 23:17:00|||||after|128|
+Glicemy|2015-02-17 07:52:00|Breakfast I||||before|136|
+Note|2015-02-17 07:53:00||Frühstück : 2 Schieben Eiweißbrot mit Käse ( 1 BE )|||||
+Insulin|2015-02-17 07:53:00|Breakfast I||NovoRapid|1|||
+Glicemy|2015-02-17 11:10:00|Lunch||||before|201|
+Note|2015-02-17 11:10:00||Mittags : Cannelloni mit Süßkartoffel und Pilze (8 BE )|||||
+Insulin|2015-02-17 11:11:00|Lunch||NovoRapid|10|||
+Glicemy|2015-02-17 13:12:00|Lunch||||after|77|
+Note|2015-02-17 13:12:00||Schokolade ( 1.5 BE )|||||
+Glicemy|2015-02-17 13:31:00|||||after|88|
+Glicemy|2015-02-17 14:59:00|Afternoon tea||||before|185|
+Note|2015-02-17 14:59:00||Snack : Schokolade ( 1.5 BE )|||||
+Insulin|2015-02-17 14:59:00|Afternoon tea||NovoRapid|3|||
+Glicemy|2015-02-17 16:39:00|Afternoon tea||||after|157|
+Physical activity|2015-02-17 17:30:00||Gehen |||||17
+Glicemy|2015-02-17 17:55:00|||||after|122|
+Glicemy|2015-02-17 20:07:00|Dinner||||before|137|
+Note|2015-02-17 20:07:00||Abends : Eierkuchen (9 BE )|||||
+Insulin|2015-02-17 20:08:00|Dinner||NovoRapid|9|||
+Insulin|2015-02-17 21:07:00|||Lantus|9|||
+Glicemy|2015-02-18 00:22:00|||||after|233|
+Insulin|2015-02-18 00:22:00|||NovoRapid|3.5|||
+Glicemy|2015-02-18 08:16:00|Breakfast I||||before|182|
+Note|2015-02-18 08:16:00||Frühstück : 2 Schieben Eiweißbrot mit Salami und Käse ( 1 BE )|||||
+Insulin|2015-02-18 08:17:00|Breakfast I||NovoRapid|2.5|||
+Glicemy|2015-02-18 11:45:00|Lunch||||before|126|
+Note|2015-02-18 12:08:00||Mittags : Salat und Brot ( 5 BE )|||||
+Insulin|2015-02-18 12:08:00|Lunch||NovoRapid|5|||
+Glicemy|2015-02-18 13:46:00|Lunch||||after|98|
+Note|2015-02-18 13:47:00||2 Dextroenergie und Granola bar (2 BE )|||||
+Glicemy|2015-02-18 13:59:00|||||after|88|
+Note|2015-02-18 14:02:00||2 Traubenzucker |||||
+Glicemy|2015-02-18 14:13:00|||||after|205|
+Physical activity|2015-02-18 14:19:00||Laufen |||||32
+Glicemy|2015-02-18 14:31:00|||||after|92|
+Note|2015-02-18 14:52:00||3 Traubenzucker|||||
+Glicemy|2015-02-18 15:08:00|||||after|130|
