@@ -1,0 +1,165 @@
+Activity|Time|Meal|Text|InsulinType|UnitsInjected|GlycemiaTiming|GlycemiaReading|Exercise
+Glicemy|2015-03-04 07:34:00|Breakfast I||||before|158|
+Note|2015-03-04 07:35:00||Frühstück : Haferflocken mit Milch ( 3 BE )|||||
+Insulin|2015-03-04 07:35:00|Breakfast I||NovoRapid|4|||
+Glicemy|2015-03-04 11:48:00|Lunch||||before|93|
+Note|2015-03-04 12:07:00||Mittags : Salat und Brot ( 4 BE )|||||
+Insulin|2015-03-04 12:07:00|Lunch||NovoRapid|3|||
+Glicemy|2015-03-04 13:36:00|Lunch||||after|115|
+Note|2015-03-04 13:37:00||Riegel ( 2 BE )|||||
+Glicemy|2015-03-04 13:54:00|||||after|119|
+Note|2015-03-04 13:55:00||2 Dextroenergie|||||
+Glicemy|2015-03-04 14:05:00|||||after|134|
+Physical activity|2015-03-04 14:15:00||Laufen |||||37
+Glicemy|2015-03-04 14:36:00|||||after|116|
+Note|2015-03-04 14:36:00||2 Dextroenergie |||||
+Glicemy|2015-03-04 15:03:00|||||after|143|
+Glicemy|2015-03-04 15:19:00|Afternoon tea||||before|201|
+Note|2015-03-04 15:20:00||Snack : Walnuss Brötchen mit Avocado und Schokolade ( 3.5 BE )|||||
+Insulin|2015-03-04 15:22:00|Afternoon tea||NovoRapid|2|||
+Glicemy|2015-03-04 17:09:00|Afternoon tea||||after|205|
+Glicemy|2015-03-04 19:57:00|Dinner||||before|140|
+Note|2015-03-04 19:57:00||Abends : Salat und Brot ( 6.5 BE )|||||
+Insulin|2015-03-04 19:58:00|Dinner||NovoRapid|6.5|||
+Insulin|2015-03-04 21:02:00|||Lantus|9|||
+Glicemy|2015-03-04 21:59:00|Dinner||||after|99|
+Glicemy|2015-03-04 22:33:00|||||after|96|
+Glicemy|2015-03-04 23:35:00|||||after|156|
+Glicemy|2015-03-05 07:25:00|Breakfast I||||before|143|
+Note|2015-03-05 07:26:00||Frühstück : Haferflocken mit Milch ( 3 BE )|||||
+Insulin|2015-03-05 07:26:00|Breakfast I||NovoRapid|3|||
+Physical activity|2015-03-05 09:24:00||Gehen|||||24
+Glicemy|2015-03-05 09:49:00|Breakfast I||||after|160|
+Glicemy|2015-03-05 11:50:00|Lunch||||before|123|
+Note|2015-03-05 12:17:00||Mittags : Salat und Brot ( 3 BE )|||||
+Insulin|2015-03-05 12:18:00|Lunch||NovoRapid|2.5|||
+Glicemy|2015-03-05 14:21:00|Lunch||||after|162|
+Glicemy|2015-03-05 15:44:00|Afternoon tea||||before|93|
+Note|2015-03-05 15:54:00||Snack : Walnuss Brot mit Käse ( 2.5 BE )|||||
+Insulin|2015-03-05 15:55:00|Afternoon tea||NovoRapid|2|||
+Glicemy|2015-03-05 19:40:00|Dinner||||before|186|
+Note|2015-03-05 19:41:00||Abends : Tofu curry mit Reis ( 5 BE )|||||
+Insulin|2015-03-05 19:41:00|Dinner||NovoRapid|7.5|||
+Glicemy|2015-03-05 20:51:00|Supper||||before|163|
+Note|2015-03-05 20:51:00||Schokolade Mousse (1.5 BE )|||||
+Insulin|2015-03-05 20:51:00|Supper||NovoRapid|1|||
+Insulin|2015-03-05 20:54:00|||Lantus|9|||
+Glicemy|2015-03-05 23:08:00|||||after|193|
+Insulin|2015-03-05 23:08:00|||NovoRapid|1|||
+Glicemy|2015-03-06 07:57:00|Breakfast I||||before|165|
+Note|2015-03-06 07:58:00||Frühstück : Haferflocken mit Milch ( 3 BE )|||||
+Insulin|2015-03-06 07:58:00|Breakfast I||NovoRapid|3.5|||
+Glicemy|2015-03-06 12:06:00|Lunch||||before|80|
+Note|2015-03-06 12:07:00||Mittags : Falafel im Brot (10 BE )|||||
+Insulin|2015-03-06 12:07:00|Lunch||NovoRapid|6|||
+Glicemy|2015-03-06 13:32:00|Lunch||||after|132|
+Glicemy|2015-03-06 15:32:00|Afternoon tea||||before|69|
+Note|2015-03-06 15:32:00||Snack : Brot mit Käse und 1 Traubenzucker (4 BE )|||||
+Glicemy|2015-03-06 16:14:00|||||after|124|
+Glicemy|2015-03-06 16:33:00|Afternoon tea||||after|153|
+Insulin|2015-03-06 16:33:00|Afternoon tea||NovoRapid|2|||
+Glicemy|2015-03-06 19:55:00|Dinner||||before|181|
+Note|2015-03-06 19:55:00||Abends : Flammkuchen ( 5.5 BE )|||||
+Insulin|2015-03-06 20:01:00|Dinner||NovoRapid|7|||
+Glicemy|2015-03-06 23:56:00|||||after|296|
+Insulin|2015-03-06 23:57:00|||NovoRapid|3.5|||
+Glicemy|2015-03-07 08:56:00|Breakfast I||||before|156|
+Note|2015-03-07 08:57:00||Frühstück : Haferflocken mit Milch ( 3 BE )|||||
+Insulin|2015-03-07 08:57:00|Breakfast I||NovoRapid|3.5|||
+Glicemy|2015-03-07 12:16:00|Lunch||||before|194|
+Note|2015-03-07 12:20:00||Mittags : Brot mit Käse ( 4.5 BE )|||||
+Insulin|2015-03-07 12:22:00|Lunch||NovoRapid|7|||
+Glicemy|2015-03-07 16:29:00|Afternoon tea||||before|114|
+Note|2015-03-07 16:29:00||Snack : Schokolade (1 BE )|||||
+Insulin|2015-03-07 16:29:00|Afternoon tea||NovoRapid|0.5|||
+Glicemy|2015-03-07 20:08:00|Dinner||||before|135|
+Note|2015-03-07 20:09:00||Abends : Süßkartoffel Curry mit Reis (15 BE )|||||
+Insulin|2015-03-07 20:11:00|Dinner||NovoRapid|8|||
+Insulin|2015-03-07 21:00:00|||Lantus|9|||
+Glicemy|2015-03-07 21:25:00|Supper||||before|236|
+Note|2015-03-07 21:25:00||Schokolade (1.5 BE )|||||
+Insulin|2015-03-07 21:25:00|Supper||NovoRapid|3.5|||
+Glicemy|2015-03-08 00:20:00|||||after|323|
+Insulin|2015-03-08 00:20:00|||NovoRapid|4.5|||
+Glicemy|2015-03-08 00:50:00|||||after|284|
+Glicemy|2015-03-08 02:29:00|||||after|43|
+Note|2015-03-08 02:30:00||2 Dextroenergie, 4 Marzipan Kartoffeln und 1 Riegel|||||
+Glicemy|2015-03-08 03:43:00|||||after|81|
+Glicemy|2015-03-08 04:59:00|||||after|111|
+Glicemy|2015-03-08 09:29:00|Breakfast I||||before|250|
+Note|2015-03-08 09:31:00||Frühstück : Haferflocken mit Milch ( 3 BE )|||||
+Insulin|2015-03-08 09:32:00|Breakfast I||NovoRapid|3.5|||
+Glicemy|2015-03-08 11:05:00|||||after|276|
+Glicemy|2015-03-08 11:27:00|||||after|297|
+Physical activity|2015-03-08 11:42:00||Laufen |||||98
+Glicemy|2015-03-08 12:08:00|||||after|246|
+Glicemy|2015-03-08 12:31:00|||||after|175|
+Glicemy|2015-03-08 13:30:00|||||after|181|
+Glicemy|2015-03-08 14:26:00|Lunch||||before|175|
+Note|2015-03-08 14:26:00||Mittags : Süßkartoffel Curry mit Brot ( 5 BE ) |||||
+Insulin|2015-03-08 14:27:00|Lunch||NovoRapid|4|||
+Glicemy|2015-03-08 17:49:00|||||after|227|
+Glicemy|2015-03-08 20:10:00|Dinner||||before|185|
+Note|2015-03-08 20:11:00||Abends : Kartoffelpuffer mit Linsen (12.5 BE )|||||
+Insulin|2015-03-08 20:12:00|Dinner||NovoRapid|12|||
+Insulin|2015-03-08 21:05:00|||Lantus|9|||
+Glicemy|2015-03-08 21:06:00|Supper||||before|220|
+Note|2015-03-08 21:06:00||Schokolade Dessert ( 2 BE )|||||
+Insulin|2015-03-08 21:06:00|Supper||NovoRapid|2|||
+Glicemy|2015-03-08 23:48:00|||||after|129|
+Glicemy|2015-03-09 00:10:00|||||after|117|
+Note|2015-03-09 00:10:00||1 Marzipan Kartoffel|||||
+Glicemy|2015-03-09 08:04:00|Breakfast I||||before|216|
+Note|2015-03-09 08:05:00||Frühstück : Haferflocken mit Milch ( 3 BE )|||||
+Insulin|2015-03-09 08:05:00|Breakfast I||NovoRapid|5.5|||
+Glicemy|2015-03-09 10:47:00|Breakfast I||||after|189|
+Glicemy|2015-03-09 11:59:00|Lunch||||before|160|
+Note|2015-03-09 12:12:00||Mittags : Salat und Brot (3 BE )|||||
+Insulin|2015-03-09 12:12:00|Lunch||NovoRapid|3.5|||
+Glicemy|2015-03-09 14:15:00|Lunch||||after|129|
+Glicemy|2015-03-09 15:37:00|Afternoon tea||||before|100|
+Note|2015-03-09 15:38:00||Snack : Brot mit Käse ( 2.5 BE )|||||
+Insulin|2015-03-09 15:38:00|Afternoon tea||NovoRapid|2|||
+Glicemy|2015-03-09 17:56:00|Afternoon tea||||after|175|
+Glicemy|2015-03-09 19:23:00|||||after|111|
+Note|2015-03-09 19:23:00||0.5 Dextroenergie|||||
+Glicemy|2015-03-09 20:09:00|||||after|151|
+Note|2015-03-09 20:10:00||Abends : Garnelen Salat ( 5 BE )|||||
+Insulin|2015-03-09 20:11:00|Dinner||NovoRapid|5|||
+Insulin|2015-03-09 21:00:00|||Lantus|9|||
+Glicemy|2015-03-09 22:47:00|Dinner||||after|114|
+Note|2015-03-09 22:50:00||Riegel ( 1BE )|||||
+Glicemy|2015-03-09 23:43:00|||||after|124|
+Glicemy|2015-03-10 00:41:00|||||after|99|
+Note|2015-03-10 00:41:00||1 Marzipan Kartoffel |||||
+Glicemy|2015-03-10 01:13:00|||||after|102|
+Glicemy|2015-03-10 01:39:00|||||after|117|
+Glicemy|2015-03-10 01:51:00|||||after|141|
+Glicemy|2015-03-10 08:05:00|Breakfast I||||before|174|
+Note|2015-03-10 08:05:00||Frühstück : Haferflocken mit Milch ( 3 BE )|||||
+Insulin|2015-03-10 08:05:00|Breakfast I||NovoRapid|4|||
+Physical activity|2015-03-10 10:28:00||Gehen |||||26
+Glicemy|2015-03-10 12:02:00|Lunch||||before|116|
+Note|2015-03-10 12:10:00||Mittags : Salat und Brot ( 3 BE )|||||
+Insulin|2015-03-10 12:11:00|Lunch||NovoRapid|2.5|||
+Glicemy|2015-03-10 15:21:00|Afternoon tea||||before|167|
+Note|2015-03-10 15:21:00||Snack : Brot mit Käse ( 2 BE )|||||
+Insulin|2015-03-10 15:21:00|Afternoon tea||NovoRapid|2.5|||
+Glicemy|2015-03-10 18:46:00|Afternoon tea||||after|125|
+Glicemy|2015-03-10 20:10:00|Dinner||||before|131|
+Note|2015-03-10 20:11:00||Abends : Pasta Bolognese (7 BE)|||||
+Insulin|2015-03-10 20:14:00|Dinner||NovoRapid|7|||
+Insulin|2015-03-10 21:05:00|||Lantus|9|||
+Glicemy|2015-03-10 21:39:00|Supper||||before|118|
+Note|2015-03-10 21:40:00||Schokolade ( 1.5 BE )|||||
+Insulin|2015-03-10 21:40:00|Supper||NovoRapid|0.5|||
+Glicemy|2015-03-10 23:27:00|||||after|114|
+Note|2015-03-10 23:27:00||Spreequell |||||
+Glicemy|2015-03-10 23:50:00|||||after|167|
+Glicemy|2015-03-11 00:08:00|||||after|158|
+Glicemy|2015-03-11 08:04:00|Breakfast I||||before|157|
+Note|2015-03-11 08:04:00||Frühstück : Haferflocken mit Milch ( 3 BE )|||||
+Insulin|2015-03-11 08:04:00|Breakfast I||NovoRapid|3.5|||
+Glicemy|2015-03-11 12:20:00|Lunch||||before|118|
+Note|2015-03-11 12:20:00||Mittags : Pasta Bolognese ( 6 BE )|||||
+Insulin|2015-03-11 12:21:00|Lunch||NovoRapid|5.5|||
